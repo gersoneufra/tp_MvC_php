@@ -1,0 +1,13 @@
+.container-main{
+   margin: 0 !important;
+}
+.container-body{
+	padding-right: 30px;
+}
+.menu-label, .menu-list{
+  margin-top: 22px;
+  margin-left: 10px;
+}
+.table{
+	width: 90%;
+}
